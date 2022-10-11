@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
@@ -18,11 +17,6 @@ A QR component challenge from frontend mentor
 ### Screenshot
 
 ![](/src/assets/images/Screen%20Shot%202022-10-11%20at%201.21.44%20AM.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
